@@ -5,7 +5,7 @@
 public class Demo {
     public static void main(String[] args) {
         // Instantiate two Person and two Superhero objects
-        Person person1 = new Person("John", 25, "Pizza");
+        Person person1 = new Person("Jack", 25, "Pizza");
         Person person2 = new Person("Jane", 30, "Sushi");
 
         SuperHero superhero1 = new SuperHero(person1, "Captain Marvel", "Flight", "Higher, further, faster!");
